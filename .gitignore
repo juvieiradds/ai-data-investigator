@@ -1,0 +1,26 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variáveis de ambiente (segredos, chaves de API)
+.env
+
+# Dados (vamos versionar dados de outra forma, não no Git)
+data/raw/
+data/processed/
+data/warehouse/
+
+# VS Code (configs pessoais, exceto as que compartilharmos)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
