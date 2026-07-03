@@ -1,5 +1,9 @@
 # 0001. Use DuckDB as the analytical database
 
+## TL;DR
+
+DuckDB was chosen as the embedded analytical database engine to enable fast, local-first OLAP workloads without requiring server infrastructure, prioritizing simplicity and performance for data exploration.
+
 ## Status
 
 Accepted
