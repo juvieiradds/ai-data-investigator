@@ -1,0 +1,22 @@
+###############################################################################
+# AI Data Investigator
+#
+# Development dependencies
+#
+# Includes all runtime dependencies plus tools used exclusively during
+# development.
+#
+# Install:
+#     pip install -r requirements-dev.txt
+###############################################################################
+
+-r requirements.txt
+
+# Development tools will be added progressively.
+#
+# Examples:
+# pytest
+# pytest-cov
+# ruff
+# pre-commit
+# mypy

@@ -1,0 +1,11 @@
+###############################################################################
+# AI Data Investigator
+#
+# Runtime dependencies
+#
+# This file intentionally starts empty.
+# Dependencies will be added incrementally as new features are implemented.
+#
+# Install:
+#     pip install -r requirements.txt
+###############################################################################
