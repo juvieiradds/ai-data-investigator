@@ -1,5 +1,9 @@
 # 0002. Data Layer Structure (Medallion Architecture)
 
+## TL;DR
+
+A Medallion architecture (raw → processed → warehouse) was adopted to ensure reproducibility, auditability, and clean separation between ingestion, transformation, and analytics layers.
+
 ## Status
 
 Accepted
@@ -99,7 +103,7 @@ We will adopt a **three-layer Medallion architecture** for all data processing w
 
 ---
 
-## Architectural Impact (EXTENSION TO BE STANDARDIZED)
+## Architectural Impact
 
 This section extends the base ADR template and will be standardized across all future ADRs.
 
